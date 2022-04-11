@@ -1,8 +1,7 @@
 # Handwritten Digit Recognizer
 
 - To recognize handwritten digits
-
-Dataset from https://www.kaggle.com/competitions/digit-recognizer/data
+- Dataset from https://www.kaggle.com/competitions/digit-recognizer/data
 
 • Pre-processed and scaled the data with TensorFlow.
 
