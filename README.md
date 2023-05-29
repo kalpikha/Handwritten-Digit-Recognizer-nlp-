@@ -8,4 +8,5 @@
 • Shuffled and divided data for training and validation.
 
 • Outlined the keras.sequential model with convolution networks, Kaggle Score - 0.99
+
   (https://www.kaggle.com/code/kalpikhamogha/digit-recognizer-cnn)
